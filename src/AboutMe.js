@@ -30,8 +30,7 @@ function AboutMe() {
           Product Development Essentials <b>(NZQA-L4) from Otago Polytechnic</b> .
           <br />After finishing my course, I continued to learn and improve my knowledge and skills through self-study. 
           <br />I completed two online courses in <b>ISTQB</b>. I am preparing myself to participate in the international ISTQB exam. 
-          <br />In addition, I am taking another online course on udemy, the subject of which is <b>web development from zero to master</b>.  During this course, I made my portfolio page more complete.
-          <br />
+          <br />In addition, I am taking another online course on udemy, the subject of which is <b>web development from zero to master</b>.  During this course, I made my blog portfolio more complete.
           <br />
 </p>
       </div>

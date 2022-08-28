@@ -330,12 +330,9 @@ h4 {
   background-image: image(Computer);
   background-color: rgba(151, 150, 150, 0.2);
   margin: 20px;
-  padding: 0px;
-  border-radius: 25px;
+  padding: 10px;
   justify-content: center;
   justify-self: center;
-  box-shadow: 10px 12px 12px #999;
-  margin: 50px;
 }
 .img {
   position: fixed; 
@@ -373,16 +370,16 @@ h4 {
   position: absolute;
   top: 50%;
   left: 25%;
-  bottom: 20%;
-  transform: translate(-15%, -50%);
+  bottom: 30%;
+  transform: translate(-20%, -50%);
   margin-bottom: 30px;
+  padding-bottom: 15%;
   text-indent: 20px;
   font-family: "Nunito", sans-serif;
   font-size: 20px;
   text-align: justify;
   /* text-shadow: 2px 2px #f0e586; */
   color:#10011d;
-  margin: 0px;
   line-height: 50px;
 }
 
